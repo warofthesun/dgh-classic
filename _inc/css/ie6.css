@@ -1,0 +1,48 @@
+div#page div#masthead p#logo a {
+	background: transparent url(../../_img/dgh-logo.gif) 0 0 no-repeat;
+}
+	div#page div#masthead p#logo a:hover {
+		background: #fff url(../../_img/dgh-logo.gif) 0 -83px no-repeat;
+	}	
+
+div#page div#masthead ul#nav {
+	background: #fff none;
+}
+	div#page div#masthead ul#nav li a {
+		background-image: url(../../_img/nav.gif);				
+	}		
+
+	div#page div#masthead ul#nav li#li_home a:hover		{ background: transparent url(../../_img/nav.gif) 0 -36px no-repeat; } 
+	div#page div#masthead ul#nav li#li_news a:hover		{ background: transparent url(../../_img/nav.gif) -81px -36px no-repeat; }
+	div#page div#masthead ul#nav li#li_shows a:hover	{ background: transparent url(../../_img/nav.gif) -154px -36px no-repeat; }
+	div#page div#masthead ul#nav li#li_releases a:hover	{ background: transparent url(../../_img/nav.gif) -242px -36px no-repeat; }
+	div#page div#masthead ul#nav li#li_bio a:hover		{ background: transparent url(../../_img/nav.gif) -363px -36px no-repeat; }
+	div#page div#masthead ul#nav li#li_photos a:hover	{ background: transparent url(../../_img/nav.gif) -408px -36px no-repeat; }
+	div#page div#masthead ul#nav li#li_press a:hover	{ background: transparent url(../../_img/nav.gif) -502px -36px no-repeat; }
+	div#page div#masthead ul#nav li#li_links a:hover	{ background: transparent url(../../_img/nav.gif) -581px -36px no-repeat; }
+	div#page div#masthead ul#nav li#li_contact a:hover	{ background: transparent url(../../_img/nav.gif) -655px -36px no-repeat; }
+	
+	div#page div#masthead ul#nav li#li_home.on a		{ background: url(../../_img/nav.gif)  0 -72px no-repeat; }
+	div#page div#masthead ul#nav li#li_news.on a		{ background: url(../../_img/nav.gif) -81px -72px no-repeat; }
+	div#page div#masthead ul#nav li#li_shows.on	a		{ background: url(../../_img/nav.gif) -154px -72px no-repeat; }
+	div#page div#masthead ul#nav li#li_releases.on a	{ background: url(../../_img/nav.gif) -242px -72px no-repeat; }					
+	div#page div#masthead ul#nav li#li_bio.on a			{ background: url(../../_img/nav.gif) -363px -72px no-repeat; }
+	div#page div#masthead ul#nav li#li_photos.on a 		{ background: url(../../_img/nav.gif) -408px -72px no-repeat; }
+	div#page div#masthead ul#nav li#li_press.on	a		{ background: url(../../_img/nav.gif) -502px -72px no-repeat; }					
+	div#page div#masthead ul#nav li#li_links.on	a 		{ background: url(../../_img/nav.gif) -581px -72px no-repeat; }
+	div#page div#masthead ul#nav li#li_contact.on a		{ background: url(../../_img/nav.gif) -655px -72px no-repeat; }
+
+
+div#content,
+div#footer {
+	zoom: 1;
+}
+
+div#comment-area ol#comment-form li label,
+ol#contact-form li label {
+	vertical-align: top;
+}
+
+ul#photostream li div.photo {
+	height: 255px;
+}	

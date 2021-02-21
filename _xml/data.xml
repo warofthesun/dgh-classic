@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewer>
+	<settings autoplay="true" resttime="10" fadetime="1" random="true" loop="true" />
+	<items>
+		<item type="image" path="http://hellotower.com/dgh/wp-content/uploads/kcreate-viewer/img/trouble_starts.jpg" title="... and the trouble starts" />
+		<item type="image" path="http://hellotower.com/dgh/wp-content/uploads/kcreate-viewer/img/trouble_starts1.jpg" title="more trouble starts" />
+		<item type="image" path="http://hellotower.com/dgh/wp-content/uploads/kcreate-viewer/img/trouble_starts2.jpg" title="Ozo" />
+		<item type="image" path="http://hellotower.com/dgh/wp-content/uploads/kcreate-viewer/img/trouble_starts3.jpg" title="DGH" />
+		<item type="image" path="http://hellotower.com/dgh/wp-content/uploads/kcreate-viewer/img/trouble_starts4.jpg" title="Shea" />
+		<item type="image" path="http://hellotower.com/dgh/wp-content/uploads/kcreate-viewer/img/trouble_starts5.jpg" title="Forrest" />		
+	</items>	
+</viewer>	

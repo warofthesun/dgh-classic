@@ -1,0 +1,9 @@
+div#comment-area ol#comment-form li label,
+ol#contact-form li label {
+	vertical-align: 25%;
+}
+
+div#content,
+div#footer {
+	zoom: 1;
+}	

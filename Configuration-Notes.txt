@@ -1,0 +1,34 @@
+CONFIGURATION NOTES
+----------------------------------------------------------------------------------------
+
+Plugins
+	Static
+
+Options:
+	Reading:
+		Front Page: Home
+		Posts Page: Dialogue
+	Permalinks: /%year%/%monthnum%/%day%/%postname%/
+	Discussion
+		Uncheck: 'Allow link notifications from other Weblogs (pingbacks and trackbacks.)'
+		Check: 'An administrator must always approve the comment'
+		
+
+Blogroll
+	Delete all links
+	Use this as the "In The News" interface.
+
+SQL
+	Before importing SQL file, search and replace domain with correct one
+	Upload Dealer SQL file separately (too big to include)
+
+Google Maps
+	Google Maps Api (http://leadbelly.popmultimedia.com/DiamondbackBMX/):
+	ABQIAAAANrSD7Mg-FqpOThGLq6yZ3RQUMCrZ1GQVfwGhyZDHTBM65tc7-RRxYuHsAfS_eRIXkhlG8xjyJbBY_w
+	
+	Google Maps Api (http://preview2.popseattle.com/DiamondbackBMX/):
+	ABQIAAAANrSD7Mg-FqpOThGLq6yZ3RQKRrzEm8V5dpDcMZPIxJwqLN7nyhQdIWE_zdXIaA5hSdf68TYb4eDOHQ
+
+	Google Maps Api -- PRODUCTION SITE (http://diamondbackbmx.com)
+	ABQIAAAANrSD7Mg-FqpOThGLq6yZ3RRn5J0lQdblgtLpF7NrH-pB4rgYWxQXWfcPjRaGuq_euLjeku0LObI3Og
+
